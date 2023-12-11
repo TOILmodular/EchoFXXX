@@ -35,4 +35,4 @@ Concerning the resistor size, I am usually using small-size resistors, about hal
 
 On the control board, you will find electrolytic capacitors with a rectangle next to them. Since these capacitors are too tall for standing upright on the board with the main board on top of it, those capacitors need to be mounted in a rectangular position. The rectangle shows the position for each bent-over capacitor.
 
-<img height="500" src="https://github.com/TOILmodular/EchoFXXX/assets/97026614/766f9b09-049a-4ce6-a7c6-0b843b86f2a9">
+<img height="300" src="https://github.com/TOILmodular/EchoFXXX/assets/97026614/bc37a003-0321-497f-b727-cd78ab788256">
