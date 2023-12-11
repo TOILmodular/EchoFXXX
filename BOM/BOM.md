@@ -30,7 +30,7 @@
 | Transistor | 2N3906 | 2 | |
 | Transistor | 2N3904 | 2 | |
 | Voltage Regulator | 79L05 | 1 | |
-| OTA | LM13700 | 6 | 1|
+| OTA | LM13700 | 1 | |
 | Op Amp | TL074 | 2 | |
 | CMOS Echo Delay | PT2399 | 1 | |
 | Toggle Switch | ON-ON | 1 | DPDT |
