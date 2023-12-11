@@ -1,5 +1,5 @@
 # EchoFXXX - PT2399 Delay Effect Eurorack Module
-Analog Eurorack delay module with a number of control parameters, like input selection (mic or line/modular), CVs for echo signal level, delay time and feedback. Based on the [EchoFXXX delay module from Music From Outer Space](https://musicfromouterspace.com/analogsynth_new/ECHOFXXX/ECHOFXXX.php).
+Analog Eurorack delay module with a number of control parameters, like input level selection (mic or line/modular), input gain control, CVs for echo signal level, delay time and feedback. Based on the [EchoFXXX delay module from Music From Outer Space](https://musicfromouterspace.com/analogsynth_new/ECHOFXXX/ECHOFXXX.php).
 
 <img height="500" src="https://github.com/TOILmodular/EchoFXXX/assets/97026614/3aa597ed-c58f-4af6-9a77-ec9190a18ea0"><img height="500" src="https://github.com/TOILmodular/EchoFXXX/assets/97026614/6d99d3d5-2233-4858-918e-e4b47890b0b5">
 
